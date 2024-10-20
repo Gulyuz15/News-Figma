@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: arial;
+}
+.container{
+    width: 1140px;
+    /* border: 3px solid red; */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+/* navbar */
+.navbar{
+    background-color: #fff;
+}
+.logo-img{
+    width: 150px;
+    height: 71px;
+}
+.navbar-kontent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-menu{
+    display: flex;
+}
+.navbar-link{
+    display: flex;
+    color: black;
+    padding: 43px 15px;
+}
+.navbar-link:hover{
+    color: #EF4423;
+}
+/* navbar end */
+
+/* header */
+.header{
+    width: 1140px;
+    height: 272px;
+    padding: 106px 145px;
+background-image: url(./img/Illustration-of-an-exit-rate\ 1\ \(1\).png);
+}
+/* header end */
+/* mean */
+.mean{
+    display: flex;
+    width: 100%;
+    height: 405px;
+}
+.mean-card-1{
+    width: 378px;
+    height: 400px;
+    background-color: #B71C1C;
+}
+.mean-card-1 img{
+    width: 378px;
+    height: 175px;
+}
+.mean-card-1-article{
+    height: 225px;
+}
+.mean-card-1-article h3{
+    font-size: 19px;
+    color: #fff;
+    padding: 8px 15px;
+}
+.mean-card-1-article p{
+    font-size: 16px;
+    color: #EBEBEB;
+    padding: 8px 15px;
+}
+
+.mean-card-2{
+    width: 378px;
+    height: 400px;
+    background-color: #B71C1C;
+}
+.mean-card-2 img{
+    width: 378px;
+    height: 175px;
+}
+.mean-card-2-article{
+    height: 225px;
+}
+.mean-card-2-article h3{
+    font-size: 19px;
+    color: #fff;
+    padding: 8px 15px;
+}
+.mean-card-2-article p{
+    font-size: 16px;
+    color: #EBEBEB;
+    padding: 8px 15px;
+}
+
+.mean-card-3{
+    width: 378px;
+    height: 400px;
+    background-color: #B71C1C;
+}
+.mean-card-3 img{
+    width: 378px;
+    height: 175px;
+}
+.mean-card-3-rticle{
+    height: 225px;
+}
+.mean-card-3-rticle h3{
+    font-size: 19px;
+    color: #fff;
+    padding: 8px 15px;
+}
+.mean-card-3-rticle p{
+    font-size: 16px;
+    color: #EBEBEB;
+    padding: 8px 15px;
+}
+
+.mean-card-4{
+    width: 378px;
+    height: 400px;
+    background-color: #B71C1C;
+}
+.mean-card-4 img{
+    width: 378px;
+    height: 175px;
+}
+.mean-card-4-article{
+    height: 225px;
+}
+.mean-card-4-article h3{
+    font-size: 19px;
+    color: #fff;
+    padding: 8px 15px;
+}
+.mean-card-4-article p{
+    font-size: 16px;
+    color: #EBEBEB;
+    padding: 8px 15px;
+}
+/* mean end */
+/* bottom */
+.asosiy{
+    height:120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom{
+    background: #EDEDED;
+    height: 535px;
+}
+.bottom-content{
+    display: flex;
+}
+.bottom-content img{
+    width: 555px;
+    height: 531px;
+}
+.bottom-article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bottom-article h3{
+    font-size: 22px;
+    color: #3A3838;
+    padding: 17px 0 35px 30px;
+}
+.bottom-article p{
+    font-size: 18px;
+    color: #686868;
+    padding: 0 0 46px 30px;
+}
+
+/* bottom end */
+/* bottom-navbar */
+.bottom-navbar{
+    background: #3A3838;
+
+}
+.bottom-logo-img{
+    width: 150px;
+    height: 71px;
+}
+.bottom-navbar-kontent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom-navbar-menu{
+    display: flex;
+}
+.bottom-navbar-link{
+    display: flex;
+    color: white;
+    padding: 43px 15px;
+}
+.bottom-navbar-link:hover{
+    color: #EF4423;
+}
+/* bottom-navbar end */
